@@ -1,2 +1,2 @@
 # probot-test-repository
-check pr
+check pr open
